@@ -9,5 +9,6 @@ public class Addition{
        System.out.println(z);
        System.out.println(z);
        System.out.println("Hello");
+      System.out.println("HI");
     }
 }
