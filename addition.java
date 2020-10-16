@@ -7,5 +7,7 @@ public class Addition{
          int z = i+j;
       
        System.out.println(z);
+       System.out.println(z);
+       System.out.println("Hello");
     }
 }
